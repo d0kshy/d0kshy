@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Hi there, I'm Daria!
 
-<!--
-**d0kshy/d0kshy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 **C++ Programmer** | 🎮 **2D Game Developer** | 🎨 **Pixel Artist** | 🪄 **3D Artist** | 📸 **Photographer**        
+🎓 Student at **Cracow University of Technology**  
+📚 Preparing for **CompTIA A+ Core 1 & Core 2**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+
+- 👾 Currently creating 2D pixel game <img src="https://github.com/user-attachments/assets/3a1311b7-6e9d-49ba-ae95-8458d9230473" width = 2.5% > from scratch — drawing assets, programming gameplay, polishing the player experience.
+- 💻 Learning advanced **C++**, game development, and system fundamentals.
+- 🌍 I speak **English**, **Polish**, **Ukrainian**, **Spanish**.
+- 🛠️ Open to collaboration and always learning something new.
+
+
+---
+
+## 🚀 Tech Stack
+
+- **Languages**: C++, C, Python, Bash
+- **Tools**: Git, Visual Studio, VS Code, XCode
+- **Game Dev**: Unreal Engine 5
+- **Graphic & Assets**: Blender, PixelEdit, PixelStudio
+- **Other**: MacOS, Linux, Windows, CLI tools
+
+---
+
+## 📚 Currently Learning
+
+- 🔌 CompTIA A+ (Core 1 & Core 2)
+- 🧠 SFML & SDL, Data Structures & Algorithms in C++
+
+---
+
+#### Thanks for stopping by! 🚀
