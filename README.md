@@ -8,7 +8,7 @@
 
 ## 🧠 About Me
 
-- 👾 Currently creating 2D pixel game <img src="https://github.com/user-attachments/assets/3a1311b7-6e9d-49ba-ae95-8458d9230473" width = 2.5% > from scratch — drawing assets, programming gameplay, polishing the player experience.
+- <img src="https://github.com/user-attachments/assets/3a1311b7-6e9d-49ba-ae95-8458d9230473" width = 2% > Currently creating 2D pixel game from scratch — drawing assets, programming gameplay, polishing the player experience.
 - 💻 Learning advanced **C++**, game development, and system fundamentals.
 - 🌍 I speak **English**, **Polish**, **Ukrainian**, **Spanish**.
 - 🛠️ Open to collaboration and always learning something new.
