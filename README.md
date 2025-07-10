@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Daria!
 
-👨‍💻 **C++ Programmer** | 🎮 **2D Game Developer** | 🎨 **Pixel Artist** | 🪄 **3D Artist** | 📸 **Photographer**        
+👨‍💻 **C++ Programmer** | 🎮 **2D Game Developer** | 🎨 **Pixel Artist** | 🪄 **3D Artist**        
 🎓 Student at **Cracow University of Technology**  
 📚 Preparing for **CompTIA A+ Core 1 & Core 2**
 
